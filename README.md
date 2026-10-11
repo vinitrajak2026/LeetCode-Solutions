@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
