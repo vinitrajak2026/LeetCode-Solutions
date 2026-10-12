@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [1392-longest-happy-prefix](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Counting
 |  |
@@ -134,4 +135,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
