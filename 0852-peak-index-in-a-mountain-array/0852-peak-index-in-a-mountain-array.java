@@ -1,39 +1,21 @@
-// class Solution {
-//     public int peakIndexInMountainArray(int[] arr) {
-//         int left=0;
-//         int right=arr.length-1;
-//         //binary search
-//         while(left<right){
-//             int mid=left+(right-left)/2;
-//  // If current element is smaller than next element, we are on the increasing slope.Peak must be on the right side.
-//  if(arr[mid]<arr[mid+1])
-//  {
-//     left=mid+1;
-//  }
-//  //else we are in decreasing slope or exactly at the peak keep mid in the search space
-//  else
-//  {
-//     right=mid;
-//      }
-//   }
-// // When left == right, we have found the peak index.
-//         return left;
-//     }
-// }
-
-class Solution{
-    public int peakIndexInMountainArray(int arr[])
-    {
-        int n=arr.length;
-        int maxx=arr[0];
-        int idx=0;
-
-        for(int i=1;i<n;i++){
-            if(arr[i]>maxx){
-                maxx=arr[i];
-                idx=i;
+ class Solution{
+    public int  peakIndexInMountainArray(int [] arr){
+        int left=0;//initilize at left pointer
+        int right=arr.length-1;//initilize at right pointer
+        while(left<right){
+            //calculate the middle index safely
+            int m=left+(right-left)/2;
+            //case 1:if next elem is greater than middle elem mean we are in increasing slope so peak is at right of mid
+            if(arr[m]<arr[m+1]){
+                left=m+1;
             }
+           //case2:we are in dec slopeor mid itself is peak
+           else{
+            //keep mid in search spavce and eliminate right side
+            right=m;
+           } 
         }
-        return idx;
+        //when left==right both [ointer indicate peak idx
+return left;
     }
-}
+ }
