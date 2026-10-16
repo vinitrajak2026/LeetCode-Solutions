@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
