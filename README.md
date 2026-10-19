@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [2235-add-two-integers](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
