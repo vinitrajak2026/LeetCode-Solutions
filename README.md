@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1470-shuffle-the-array](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2239-find-closest-number-to-zero](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/2239-find-closest-number-to-zero) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Sliding Window
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Prefix Sum
 |  |
 | ------- |
