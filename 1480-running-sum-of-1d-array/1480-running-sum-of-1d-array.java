@@ -9,8 +9,7 @@ class Solution {
 }
  //Example:
         // nums = [1, 2, 3, 4]
-        //
-        // i = 1 → nums[1] = 2 + 1 = 3
+        // i = 1 → nums[1] = 2 + 1 = 3[curr element+previous element]
         // i = 2 → nums[2] = 3 + 3 = 6
         // i = 3 → nums[3] = 4 + 6 = 10
     
