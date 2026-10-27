@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -176,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
