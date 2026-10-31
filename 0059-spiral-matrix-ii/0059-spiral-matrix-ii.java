@@ -1,40 +1,30 @@
 class Solution {
-public int[][] generateMatrix(int n) {
-    int[][] mat = new int[n][n];
-    int[] dr = {0, 1, 0, -1};
-    int[] dc = {1, 0, -1, 0};
+    public int[][] generateMatrix(int n) {
+        int[][] matrix = new int[n][n];
 
-    int r = 0;
-    int c = 0;
-    int dir = 0;
+        int top = 0, bottom = n - 1;
+        int left = 0, right = n - 1;
+        int num = 1;
 
-    boolean[][] vis = new boolean[n][n];
+        while (num <= n * n) {
 
-    for (int num = 1; num <= n * n; num++)
-     {
+            for (int i = left; i <= right; i++)
+                matrix[top][i] = num++;
+            top++;
 
-        mat[r][c] = num;
-        vis[r][c] = true;
+            for (int i = top; i <= bottom; i++)
+                matrix[i][right] = num++;
+            right--;
 
-        int nxtrow = r + dr[dir];
-        int nxtcol = c + dc[dir];
+            for (int i = right; i >= left && top <= bottom; i--)
+                matrix[bottom][i] = num++;
+            bottom--;
 
-        if (nxtrow < 0 || nxtrow >= n ||
-            nxtcol < 0 || nxtcol >= n ||
-            vis[nxtrow][nxtcol]) {
-
-            dir = (dir + 1) % 4;
-
-            nxtrow = r + dr[dir];
-            nxtcol = c + dc[dir];
+            for (int i = bottom; i >= top && left <= right; i--)
+                matrix[i][left] = num++;
+            left++;
         }
 
-        if (num < n * n) {
-            r = nxtrow;
-            c = nxtcol;
-        }
+        return matrix;
     }
-
-    return mat;
-}
 }
