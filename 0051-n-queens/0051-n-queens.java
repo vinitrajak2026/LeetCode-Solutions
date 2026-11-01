@@ -1,50 +1,56 @@
 import java.util.*;
 class Solution {
-    public List<List<String>> solveNQueens(int n) {
-        List<List<String>> result = new ArrayList<>();
-        char[][] board = new char[n][n];
-        for (int i = 0; i < n; i++) {
-            Arrays.fill(board[i], '.');
-        }
-        solve(0, n, board, result);
-        return result;
+public List<List<String>> solveNQueens(int n) {
+List<List<String>> result = new ArrayList<>();
+    char[][] board = new char[n][n];
+    for (char[] row : board) {
+        Arrays.fill(row, '.');
     }
-    private void solve(int row, int n, char[][] board,
-                       List<List<String>> result) {
-        if (row == n) {
-            List<String> solution = new ArrayList<>();
-            for (int i = 0; i < n; i++) {
-                solution.add(new String(board[i]));
-            }
-            result.add(solution);
-            return;
+
+    boolean[] col = new boolean[n];
+    boolean[] diagonal1 = new boolean[2 * n - 1];
+    boolean[] diagonal2 = new boolean[2 * n - 1];
+
+    solve(0, n, board, col, diagonal1, diagonal2, result);
+
+    return result;
+}
+
+private void solve(int row, int n, char[][] board,
+                   boolean[] col, boolean[] diagonal1,
+                   boolean[] diagonal2,
+                   List<List<String>> result) {
+
+    if (row == n) {
+        List<String> solution = new ArrayList<>();
+
+        for (char[] r : board) {
+            solution.add(new String(r));
         }
-        for (int col = 0; col < n; col++) {
-            if (isSafe(row, col, n, board)) {
-                board[row][col] = 'Q';
-                solve(row + 1, n, board, result);
-                board[row][col] = '.';
-            }
-        }
+
+        result.add(solution);
+        return;
     }
-    private boolean isSafe(int row, int col, int n, char[][] board) {
-        for (int i = 0; i < row; i++) {
-            if (board[i][col] == 'Q') {
-                return false;
-            }
+
+    for (int c = 0; c < n; c++) {
+        int d1 = row - c + n - 1;
+        int d2 = row + c;
+
+        if (col[c] || diagonal1[d1] || diagonal2[d2]) {
+            continue;
         }
-        for (int i = row - 1, j = col - 1;
-             i >= 0 && j >= 0; i--, j--) {
-            if (board[i][j] == 'Q') {
-                return false;
-            }
-        }
-        for (int i = row - 1, j = col + 1;
-             i >= 0 && j < n; i--, j++) {
-            if (board[i][j] == 'Q') {
-                return false;
-            }
-        }
-        return true;
+
+        board[row][c] = 'Q';
+        col[c] = true;
+        diagonal1[d1] = true;
+        diagonal2[d2] = true;
+
+        solve(row + 1, n, board, col, diagonal1, diagonal2, result);
+
+        board[row][c] = '.';
+        col[c] = false;
+        diagonal1[d1] = false;
+        diagonal2[d2] = false;
     }
+}
 }
