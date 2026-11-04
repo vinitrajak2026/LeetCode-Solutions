@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [2235-add-two-integers](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/2235-add-two-integers) |
@@ -194,4 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0051-n-queens) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
