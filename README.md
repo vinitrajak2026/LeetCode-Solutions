@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2239-find-closest-number-to-zero](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/2239-find-closest-number-to-zero) |
+| [2596-check-knight-tour-configuration](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [2596-check-knight-tour-configuration](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2596-check-knight-tour-configuration](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
 | ------- |
@@ -226,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
