@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2239-find-closest-number-to-zero](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2596-check-knight-tour-configuration](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+| [3193-count-the-number-of-inversions](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/3193-count-the-number-of-inversions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [3193-count-the-number-of-inversions](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/3193-count-the-number-of-inversions) |
 ## Math
 |  |
 | ------- |
