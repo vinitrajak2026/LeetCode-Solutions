@@ -1,5 +1,6 @@
 class Solution {
-    public int numberOfPermutations(int n, int[][] requirements) {
+    public int numberOfPermutations(int n, int[][] requirements) 
+    {
         int MOD=1_000_000_007;
         int [] req=new int[n];
         Arrays.fill(req,-1);
@@ -8,6 +9,7 @@ class Solution {
             req[r[0]]=r[1];
             maxInv=Math.max(maxInv,r[1]);
         }
+        
         int [] dp=new int[maxInv+1];
         dp[0]=1;
         for(int i =1;i<=n;i++){
