@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [3193-count-the-number-of-inversions](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/3193-count-the-number-of-inversions) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/vinitrajak2026/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Heap (Priority Queue)
 |  |
